@@ -37,9 +37,39 @@ The single-text file is a series of meta data blocks and text blocks.
 
 Note: You do NOT need a title for you entries. 
 
-Use the meta data block for adding the date. 
+Use the meta data block for adding the date. In the first meta data block 
+you need a "full" date, that is, year/month/day e.g.:
 
+```
+year: 2017
+month: July
+day:   Wed 19
+```
 
+or
 
+```
+date: 2017-07-19
+```
 
+In the following entries you only need to add what changes e.g. still in the same month as yesterday? 
+just add a day entry (and the computer will calculate the full date) e.g.:
+
+```
+day: Thu 20
+```
+
+or
+
+```
+day: 20
+```
+
+Use any of these date entries:
+
+- **year** or **y**   --  year
+- **month** or **m**   -- month  (use  1,2,3,etc. or Jan,Feb,Mar or January,February)
+- **week**  or **w**    -- week  (use 1,2,3, etc.)
+- **day**   or **d**    -- day (use 1,2,3...31  or Wed 19, Thu 20,...)
+- **julian** or **j**    -- julian day (use 1,2,3..364,365)
 
