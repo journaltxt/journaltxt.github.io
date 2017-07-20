@@ -125,6 +125,11 @@ all from a single-text source file, for example.
 
 
 
+
+{% include_relative samples/README.md %}
+
+
+
 ## License
 
 The Journal.TXT format and conventions are dedicated to the public domain.
