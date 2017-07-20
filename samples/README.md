@@ -8,7 +8,7 @@ _Single-Text File Journals - The Human Multi-Document Format for Writers_
 ## A Perfect Day in \_\_\_?
 
 
-[`samples/Vienna.txt`](Vienna.txt):
+[`samples/Vienna.txt`](https://github.com/journaltxt/journaltxt.github.io/blob/master/samples/Vienna.txt):
 
 ``` text
 ---
