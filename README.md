@@ -2,7 +2,7 @@
 
 # Journal.TXT - Single-Text File Journals - The Human Multi-Document Format for Writers
 
-Write your journal in a single-text. Example:
+Write your journal in a single-text file. Example:
 
 ``` text
 --- 
@@ -33,7 +33,7 @@ Let's rest.
 
 How does it work?
 
-The single-text file is a series of meta data blocks and text blocks. 
+The single-text file is a series of meta data and text blocks. 
 
 ### Dates
 
