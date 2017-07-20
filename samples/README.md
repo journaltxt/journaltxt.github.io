@@ -23,28 +23,25 @@ for a great tour with a public transport ticket.
 Passing the Hofburg (imperial palace), Parlament, 
 Burggarten (imperial court's garden), 
 Rathaus (city council), Burgtheater (imperial court's theatre),
-Vienna University, and more.
+Vienna University, and more. [...]
 
-Getting off at the Vienna University stop. 
-Wandering to the heart of the city to the glourious
-gothic Stepansdom (Stephan's cathedral).
+---
+day:   Tue 18
+---
 
-Making my way to the Hofburg passing the Pestsäule (plague column) in the Graben
-and the Michaeler Tor (St. Michael's gate). Passing the National Library and
-the Imperial Sisi Apartments and Crown Jewels.
+Visiting the imperial palace Schönbrunn - the former summer residence
+of the Habsburg family.
+Taking an inside tour of the 1 441-room baroque palace.
+Enjoying the Neptune Fountain and sculptures in the public garden. [...]
 
-Crossing the Ringstrasse to the Kunsthistorisches Museum (national art gallery) - home
-to a breath-taking art collection. Must see! 
-The (Great) Babel Tower by Pieter Bruegel the Elder (c.1525-1530 - 1569)
-and the Geographer by Johannes Vermeer (1668 – 1669).
+---
+day:   Wed 19
+---
 
-Recharging at 7 Stern Bräu in Neubau with a Gulash and beers brewed-on-location
-with Vienna's fine tap water (from the Austrian Mountains).
-Trying 7 Stern Märzen (5.1%, 13.5°),
-7 Stern Weizen Classic (5.2%, 12.7°),
-7 Stern Prager Dunkles (4.5%, 12.1°) and
-today's special 7 Stern Smoked Porter (5.3%, 13.8°). Cheers. Prost. 
-...
+Visiting the Sigmund Freud Museum in Bergstrasse 9. Too much culture - 
+need a beer therapy soon.
+Passing through the Palais Lichtenstein to the
+Beaver Brewing Co. (Liechtensteinstraße 69). [...]
 ```
 
 **See the live auto-built [Vienna.TXT Blog »](https://journaltxt.github.io/blog)**
