@@ -47,7 +47,11 @@ today's special 7 Stern Smoked Porter (5.3%, 13.8°). Cheers. Prost.
 ...
 ```
 
-##  Add Your Perferct Day!
+**See the live auto-built [Vienna.TXT Blog »](https://journaltxt.github.io/blog)**
+
+
+
+##  Add Your Perfect Day!
 
 Berlin.TXT, Munich.TXT, Salzburg.TXT, Paris.TXT, London.TXT, Rome.TXT, New York.TXT, Austin.TXT, Tornoto.TXT, Calgary.TXT, 
 Melbourne.TXT, Sydney.TXT, ...   - Anyone? Write your perfect day(s) in a single-text file with Journal.TXT.
