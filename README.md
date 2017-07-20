@@ -99,6 +99,32 @@ If you add a title - the title by default gets added e.g.
 Note: You can always customize the title format.  FUTURE (To be done). 
 
 
+
+## Bonus:  Single-Source for Blog Posts & Status Tweets / Toots
+
+You can add tweets (or toots) to your journal.TXT. Use a "generic" block in the [Text with Instructions (.texti)](https://texti.github.io/) format. 
+Example:
+
+``` text
+:::::: Tweet :::::::  
+:: New! Journal.TXT - Single-Text File Publishing - 
+:: The Human Multi-Document Format for Writers - Blogging Reinvented https://journaltxt.github.io  
+```
+
+or use the "long" block form:
+
+``` text
+:::::: Tweet ::::::::::::
+New! Journal.TXT - Single-Text File Publishing - 
+The Human Multi-Document Format for Writers - Blogging Reinvented https://journaltxt.github.io
+::::::::::::::::::::::
+```
+
+If configured your Journal.TXT processor will publish (auto-build) your blog AND publish your (new) tweets (on twitter)
+all from a single-text source file, for example.
+
+
+
 ## License
 
 The Journal.TXT format and conventions are dedicated to the public domain.
